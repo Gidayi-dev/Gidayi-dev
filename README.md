@@ -1,4 +1,4 @@
-6# Hi there, I'm Gidayi! 👋
+# Hi there, I'm Gidayi! 👋
 
 I'm a passionate **Software Developer** with a deep interest in **JavaScript, HTML, CSS, Python, APIs**, and **Data Science**. I love building web applications, automating tasks, and solving real-world problems with data-driven solutions.
 
