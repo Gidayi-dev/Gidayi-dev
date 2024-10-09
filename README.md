@@ -17,3 +17,6 @@ I'm a passionate **Software Developer** with a deep interest in **JavaScript, HT
 ### 🔗 Connect with me on LinkedIn:
 
 https://www.linkedin.com/in/millyannah-gidayi-b0889623a
+
+## Email
+millyannahi@gmail.com
