@@ -7,8 +7,6 @@ Welcome to my GitHub! I'm a passionate fullstack developer with interests in web
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:millyannahi@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-profile)
 
-!clearCache()
-
 ## Tech Stack 🛠️
 ### Languages & Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -32,14 +30,6 @@ Welcome to my GitHub! I'm a passionate fullstack developer with interests in web
 
 ### Other Technologies
 ![Data Science](https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-
-## 📊 GitHub Stats
-![Millyannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gidayi&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gidayi&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Gidayi&theme=onedark)
 
 
 ## 🌱 Currently Learning
