@@ -1,4 +1,4 @@
-# Hi, I'm Millyannah 👋
+# Hi,  I'm Gidayi 👋
 
 Welcome to my GitHub! I'm a passionate fullstack developer with interests in web development, APIs, data science, and backend technologies. I'm currently honing my skills in different frameworks and databases.
 
@@ -30,8 +30,6 @@ Welcome to my GitHub! I'm a passionate fullstack developer with interests in web
 
 ### Other Technologies
 ![Data Science](https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-
-# Hi, I'm Gidayi 👋
 
 ## My GitHub Stats
 
