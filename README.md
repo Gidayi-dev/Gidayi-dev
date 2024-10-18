@@ -42,7 +42,7 @@ Welcome to my GitHub! I'm a passionate fullstack developer with interests in web
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gidayi-dev&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gidayi-dev&layout=compact&langs_count=6&cache_seconds=1800)
 
 ## My GitHub Contributions
 
