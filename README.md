@@ -30,21 +30,6 @@ Welcome to my GitHub! I'm a passionate fullstack developer with interests in web
 ### Other Technologies
 ![Data Science](https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
-## My GitHub Stats
-
-![Gidayi-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gidayi-dev&show_icons=true&theme=radical)
-
-## Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gidayi-dev&layout=compact&theme=radical)
-
-## My GitHub Contributions
-
-[![Gidayi-dev's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gidayi-dev&theme=github-dark)](https://github.com/Gidayi-dev)
-
-## GitHub Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gidayi-dev&theme=gruvbox)](https://github.com/Gidayi-dev)
 
 
 ## 🌱 Currently Learning
