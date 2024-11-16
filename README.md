@@ -31,7 +31,7 @@ Welcome to my GitHub! I'm a passionate fullstack developer with interests in web
 
 ## My GitHub Stats
 
-![Gidayi-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gidayi-dev&show_icons=true&theme=radical&cache_seconds=1800)
+![Gidayi-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gidayi-dev&show_icons=true&theme=radical&cache_seconds=180)
 
 
 ## Most Used Languages
