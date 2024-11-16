@@ -36,10 +36,10 @@ Welcome to my GitHub! I'm a passionate fullstack developer with interests in web
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gidayi-dev&layout=compact&theme=radical&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gidayi-dev&layout=compact&theme=radical&cache_seconds=180)
 
 ## GitHub Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gidayi-dev&theme=gruvbox&cache_seconds=1800)](https://github.com/Gidayi-dev)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gidayi-dev&theme=gruvbox&cache_seconds=180)](https://github.com/Gidayi-dev)
 
 
