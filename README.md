@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm a passionate fullstack developer with interests in web development, APIs, data science, and backend technologies. I'm currently honing my skills in different frameworks and databases.
 
 ## Let's Connect 🤝
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/millyannah-gidayi) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/millyannahgidayi) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:millyannahi@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/IMillyannah)
 
