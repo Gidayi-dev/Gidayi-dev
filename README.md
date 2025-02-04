@@ -1,6 +1,6 @@
 # Hi, I'm Gidayi 👋
 
-Welcome to my GitHub! I'm a passionate fullstack developer with interests in web development, APIs, data science, and backend technologies. I'm currently honing my skills in different frameworks and databases.
+Welcome to my GitHub! I'm a passionate fullstack developer with interests in web development, APIs, data science, and backend technologies. I'm constantly expanding my expertise in modern web technologies, optimizing backend performance, and exploring data-driven applications.
 
 ## Let's Connect 🤝
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/millyannahgidayi) 
@@ -28,9 +28,11 @@ Welcome to my GitHub! I'm a passionate fullstack developer with interests in web
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Other Technologies
-Currently exploring
-![Data Science](https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=python&logoColor=white) & Machine Learning
+### Other Technologies  
+🚀 Currently exploring:  
+![Data Science](https://img.shields.io/badge/Data%20Science-%231572B6.svg?style=for-the-badge&logo=jupyter&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=for-the-badge&logo=tensorflow&logoColor=white)  
+I'm diving deeper into data science and machine learning, exploring frameworks like TensorFlow, Pandas, and Scikit-learn to build intelligent applications.
 
 ## My GitHub Stats
 
