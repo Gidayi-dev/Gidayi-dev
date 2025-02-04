@@ -26,14 +26,11 @@ Welcome to my GitHub! I'm a passionate fullstack developer with interests in web
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Databases 🗄️  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
 
 ### Other Technologies  
 #### 🚀 Currently exploring:  
-![Data Science](https://img.shields.io/badge/Data%20Science-%231572B6.svg?style=for-the-badge&logo=jupyter&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Data Science](https://img.shields.io/badge/Data%20Science-%231572B6.svg?style=for-the-badge&logo=jupyter&logoColor=white)  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=for-the-badge&logo=tensorflow&logoColor=white)  
 
 
 I'm diving deeper into data science and machine learning, exploring frameworks like TensorFlow, Pandas, and Scikit-learn to build intelligent applications.
