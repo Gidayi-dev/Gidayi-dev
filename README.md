@@ -29,7 +29,8 @@ Welcome to my GitHub! I'm a passionate fullstack developer with interests in web
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Other Technologies
-![Data Science](https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+Currently exploring
+![Data Science](https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=python&logoColor=white) & Machine Learning
 
 ## My GitHub Stats
 
