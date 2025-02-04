@@ -1,4 +1,4 @@
-# Hi, I'm Millyannah 👋
+# Hi, I'm Gidayi 👋
 
 Welcome to my GitHub! I'm a passionate fullstack developer with interests in web development, APIs, data science, and backend technologies. I'm currently honing my skills in different frameworks and databases.
 
