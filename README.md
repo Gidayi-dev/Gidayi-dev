@@ -17,6 +17,8 @@ Welcome to my GitHub! I'm a passionate fullstack developer with interests in web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -37,7 +39,7 @@ I'm diving deeper into data science and machine learning, exploring frameworks l
 
 ## My GitHub Stats
 
-![Gidayi-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gidayi-dev&show_icons=true&theme=radical&cache_seconds=180)
+![Gidayi-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gidayi-dev&show_icons=true&theme=radical&cache_seconds=90)
 
 
 ## Most Used Languages
