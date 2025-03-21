@@ -1,20 +1,28 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&height=50&lines=Hey+There!+I'm+Gidayi+%F0%9F%91%8B;Passionate+Fullstack+Developer;Code%2C+Innovate%2C+Repeat!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&height=50&lines=Hey+There!+I'm+Gidayi+%F0%9F%91%8B;Fullstack+Developer;Code%2C+Innovate%2C+Repeat!" alt="Typing SVG" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Gif">
+  <table>
+    <tr>
+      <td>
+        <h2>🌟 About Me</h2>
+        <p>Hey there! I'm <strong>Gidayi</strong>, a <strong>Fullstack Developer</strong> passionate about <strong>web & app development, APIs, data science, and backend technologies</strong>. I love creating intuitive user experiences, optimizing performance, and building scalable applications.</p>
+        <ul>
+          <li>🔭 I’m currently working on <strong>exciting web & app projects</strong>.</li>
+          <li>🌱 I’m learning <strong>Data Science & Machine Learning</strong>.</li>
+          <li>💬 Ask me about <strong>React, Node.js, Python, and APIs</strong>.</li>
+          <li>⚡ Fun fact: I love <strong>investigative movies🎥</strong>.</li>
+        </ul>
+      </td>
+      <td>
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Gif">
+      </td>
+    </tr>
+  </table>
 </div>
-
-## 🌟 About Me
-Hey there! I'm **Gidayi**, a **fullstack developer** passionate about **web development, APIs, data science, and backend technologies**. I love creating intuitive user experiences, optimizing performance, and building scalable applications.
-
-- 🔭 I’m currently working on **exciting web & app projects**.
-- 🌱 I’m learning **Data Sceince Machine Learning**.
-- 💬 Ask me about **React, Node.js, Python, and APIs**.
-- ⚡ Fun fact: I love **investigative movies🎥**.
 
 ---
 
@@ -42,11 +50,3 @@ Hey there! I'm **Gidayi**, a **fullstack developer** passionate about **web deve
   <a href="https://discord.com/users/1314496554685435957"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://t.me/@gidayi"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote">
-</div>
-
-
