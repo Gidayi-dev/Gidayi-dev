@@ -35,9 +35,9 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gidayi-dev&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gidayi-dev&show_icons=true&theme=dark&hide_border=true&cache_seconds=90" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Gidayi-dev&theme=dark&hide_border=true" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gidayi-dev&layout=compact&hide_progress=true&theme=dark&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gidayi-dev&layout=compact&hide_progress=true&theme=dark&hide_border=true&cache_seconds=90" alt="Top Languages">
 </div>
 
 ---
@@ -50,3 +50,11 @@
   <a href="https://discord.com/users/1314496554685435957"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://t.me/@gidayi"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
+
+---
+## 🌟 Visitor Count
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gidayi-dev&label=Profile%20Views&color=blue&style=for-the-badge" alt="visitor badge"/>
+</div>
+
+---
