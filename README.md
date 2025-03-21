@@ -1,55 +1,52 @@
-# Hi, I'm Gidayi 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&height=50&lines=Hey+There!+I'm+Gidayi+%F0%9F%91%8B;Passionate+Fullstack+Developer;Code%2C+Innovate%2C+Repeat!" alt="Typing SVG" />
+</div>
 
-Welcome to my GitHub! I'm a passionate fullstack developer with interests in web development, APIs, data science, and backend technologies. I'm constantly expanding my expertise in modern web technologies, optimizing backend performance, and exploring data-driven applications.
+---
 
-## Let's Connect 🤝
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/millyannahgidayi) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:millyannahi@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/IMillyannah)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1314496554685435957)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@gidayi)  
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Gif">
+</div>
 
-## Tech Stack 🛠️
-### Languages & Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+## 🌟 About Me
+Hey there! I'm **Gidayi**, a **fullstack developer** passionate about **web development, APIs, data science, and backend technologies**. I love creating intuitive user experiences, optimizing performance, and building scalable applications.
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![APIs](https://img.shields.io/badge/APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- 🔭 I’m currently working on **exciting web & app projects**.
+- 🌱 I’m learning **Data Sceince Machine Learning**.
+- 💬 Ask me about **React, Node.js, Python, and APIs**.
+- ⚡ Fun fact: I love **investigative movies🎥**.
 
-### Databases 🗄️  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
+---
 
-### Other Technologies  
-#### 🚀 Currently exploring:  
-![Data Science](https://img.shields.io/badge/Data%20Science-%231572B6.svg?style=for-the-badge&logo=jupyter&logoColor=white)  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=for-the-badge&logo=tensorflow&logoColor=white)  
+## 🚀 Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,express,python,ruby,rails,docker,git,github,mysql,postgres" alt="Tech Stack" />
+</div>
 
+---
 
-I'm diving deeper into data science and machine learning, exploring frameworks like TensorFlow, Pandas, and Scikit-learn to build intelligent applications.
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gidayi-dev&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gidayi-dev&theme=dark&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gidayi-dev&layout=compact&hide_progress=true&theme=dark&hide_border=true" alt="Top Languages">
+</div>
 
-## My GitHub Stats
+---
 
-![Gidayi-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gidayi-dev&show_icons=true&theme=radical&cache_seconds=90)
+## 🎯 Let's Connect
+<div align="center">
+  <a href="https://www.linkedin.com/in/millyannahgidayi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:millyannahi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/IMillyannah"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://discord.com/users/1314496554685435957"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://t.me/@gidayi"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</div>
 
+---
 
-## Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gidayi-dev&layout=compact&theme=radical&cache_seconds=180)
-
-## GitHub Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gidayi-dev&theme=gruvbox&cache_seconds=180)](https://github.com/Gidayi-dev)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote">
+</div>
 
 
