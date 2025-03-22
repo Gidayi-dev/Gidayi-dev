@@ -52,7 +52,6 @@
 </div>
 
 ---
-## 🌟 Visitor Count
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Gidayi-dev&label=Profile%20Views&color=blue&style=for-the-badge" alt="visitor badge"/>
 </div>
