@@ -36,7 +36,6 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gidayi-dev&show_icons=true&theme=dark&hide_border=true&cache_seconds=90" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gidayi-dev&theme=dark&hide_border=true&cache_seconds=90" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gidayi-dev&layout=compact&hide_progress=true&theme=dark&hide_border=true&cache_seconds=90" alt="Top Languages">
 </div>
 
