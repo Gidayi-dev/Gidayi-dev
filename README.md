@@ -4,10 +4,11 @@
 
 ---
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
+<div>
+  <p align="center">
+  <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="400" height="auto" alt="Coding"/>
+</p>
+   <p>
         <h2>🌟 About Me</h2>
         <p>Hey there! I'm <strong>Gidayi</strong>, a <strong>Fullstack Developer</strong> passionate about <strong>web & app development, APIs, data science, and backend technologies</strong>. I love creating intuitive user experiences, optimizing performance, and building scalable applications.</p>
         <ul>
@@ -16,34 +17,29 @@
           <li>💬 Ask me about <strong>React, Node.js, Python, and APIs</strong>.</li>
           <li>⚡ Fun fact: I love <strong>investigative movies🎥</strong>.</li>
         </ul>
-      </td>
-      <td>
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Gif">
-      </td>
-    </tr>
-  </table>
+    </p>
 </div>
 
 ---
 
 ## 🚀 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,express,python,ruby,rails,docker,git,github,mysql,postgres" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,express,python,ruby,rails,docker,git,github,mysql,postgres,nextjs,reactnative" alt="Tech Stack" />
 </div>
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gidayi-dev&show_icons=true&theme=dark&hide_border=true&cache_seconds=30" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gidayi-dev&layout=compact&hide_progress=true&theme=dark&hide_border=true&cache_seconds=90" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gidayi-dev&show_icons=true&theme=dark&hide_border=true&cache_seconds=60" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gidayi-dev&layout=compact&hide_progress=true&theme=dark&hide_border=true&cache_seconds=60" alt="Top Languages">
 </div>
 
 ---
 
 ## 🎯 Let's Connect
 <div align="center">
-  <a href="https://www.linkedin.com/in/millyannahgidayi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/millyannahi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:millyannahi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://x.com/IMillyannah"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://discord.com/users/1314496554685435957"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
