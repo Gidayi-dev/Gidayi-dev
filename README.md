@@ -9,16 +9,9 @@
   <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="400" height="auto" alt="Coding"/>
 </p>
    <p>
-        <h2>🌟 About Me</h2>
-        <p>Hey there! I'm <strong>Gidayi</strong>, a <strong>Fullstack Developer</strong> passionate about <strong>web & app development, APIs, data science, and backend technologies</strong>. I love creating intuitive user experiences, optimizing performance, and building scalable applications.</p>
-        <ul>
-          <li>🔭 I’m currently working on <strong>exciting web & app projects</strong>.</li>
-          <li>🌱 I’m learning <strong>Data Science & Machine Learning</strong>.</li>
-          <li>💬 Ask me about <strong>React, Node.js, Python, and APIs</strong>.</li>
-          <li>⚡ Fun fact: I love <strong>investigative movies🎥</strong>.</li>
-        </ul>
-    </p>
-</div>
+        
+        <p>Heyy I'm <strong>Gidayi</strong>, a <strong>Software Developer</strong>
+  </div>
 
 ---
 
